@@ -1,0 +1,124 @@
+.background{
+    background-image: url(./assets/sunset.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-position: auto 10x;
+}
+
+.bodytext{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    margin-top: 250px;
+    text-align: center;
+    justify-content: bottom;
+
+}
+
+.menu{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    font-size: 30px;
+    margin-right: 40px;
+    margin-left: 75px;
+
+}
+
+.beranda{
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    list-style-type: none;
+    color: aliceblue;
+}
+
+.tentang{
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    list-style-type: none;
+    color: aliceblue;
+}
+
+.kontak{
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    list-style-type: none;
+    color: aliceblue;
+}
+
+.login{
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-top: 15px;
+    list-style-type: none;
+    border-style: solid;
+    border-color: aliceblue;
+    border-radius: 20px;
+    border-width: 2px;
+    margin-bottom: 15px;
+
+}
+
+.FAQ{
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-right: 35px;
+    list-style-type: none;
+    color: aliceblue;
+}
+
+.menubutton {
+    max-width: 60px;
+    max-height: 60px;
+    margin-left: 10px;
+    margin-right: 40px;
+    margin-top: 15px;
+    list-style-type: none;
+    float: right;
+}
+
+.judul{
+    text-align: center;
+    font-size: 120px;
+    line-height: 100px;
+    color: aliceblue;
+}
+
+.tagline{
+    text-align: center;
+    font-size: 25px;
+    margin-top: -50px;
+    color: aliceblue;
+    justify-content: center;
+
+}
+
+.DAFTAR{
+    border: none;
+    color:aliceblue;
+    background-color: black;
+    padding: 15px 30px;
+    display: inline-block;
+    font-size: 25px;
+    border-radius: 15px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 600;
+}
+
+
